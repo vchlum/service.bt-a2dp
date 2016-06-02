@@ -13,9 +13,9 @@
   </requires>
   <extension point="xbmc.service" library="service.py" start="login"/>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">shnopp</summary>
-    <description lang="en">shnopp</description>
-    <disclaimer lang="en">shnopp</disclaimer>
+    <summary lang="en">bt-a2dp</summary>
+    <description lang="en">bt-a2dp</description>
+    <disclaimer lang="en">bt-a2dp</disclaimer>
     <language></language>
     <platform>all</platform>
     <license>GNU GENERAL PUBLIC LICENSE.</license>
